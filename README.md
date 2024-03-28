@@ -27,7 +27,7 @@ Antes de comenzar, asegúrate de cumplir con los siguientes requisitos:
 - Tener al menos un bucket de Amazon S3 con objetos, asociado a su cuenta.
 - Conocimientos básicos de Amazon S3.
 
-## Cómo Empezar 🚀
+## ¿Cómo Empezar? 🚀
 
 Para comenzar con el webinar, sigue estos pasos:
 
